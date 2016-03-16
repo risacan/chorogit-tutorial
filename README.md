@@ -1,5 +1,6 @@
 # ChoroGit Tutorial
 ChoroGit Tutorialはバージョン管理システムGitに初めてふれるかた向けのTutorialです。
+GitとGitHubの利用方法を学びます✨
 以下の内容がふくまれます。
 - GitのInstall
 - ローカルレポジトリの作成
@@ -7,6 +8,8 @@ ChoroGit Tutorialはバージョン管理システムGitに初めてふれるか
 - GitHubでのアカウント作成
 - ローカルレポジトリとGitHubレポジトリをつなぐ
 - First Push
+
+# 
 
 # 登場するコマンド
 - git --version
