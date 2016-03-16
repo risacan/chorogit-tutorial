@@ -1,5 +1,5 @@
-# Git Tutorial
-Git Tutorialはバージョン管理システムGitに初めてふれるかた向けのTutorialです。
+# ChoroGit Tutorial
+ChoroGit Tutorialはバージョン管理システムGitに初めてふれるかた向けのTutorialです。
 以下の内容がふくまれます。
 - GitのInstall
 - ローカルレポジトリの作成
@@ -8,7 +8,7 @@ Git Tutorialはバージョン管理システムGitに初めてふれるかた�
 - ローカルレポジトリとGitHubレポジトリをつなぐ
 - First Push
 
-登場するコマンド
+# 登場するコマンド
 - git --version
 - git config
 - git init
@@ -20,3 +20,5 @@ Git Tutorialはバージョン管理システムGitに初めてふれるかた�
 - mkdir
 - cd
 - ls
+
+
