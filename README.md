@@ -9,7 +9,7 @@ GitとGitHubの利用方法を学びます✨
 - ローカルレポジトリとGitHubレポジトリをつなぐ
 - First Push
 
-# 
+# 前提知識
 
 # 登場するコマンド
 - git --version
@@ -23,5 +23,7 @@ GitとGitHubの利用方法を学びます✨
 - mkdir
 - cd
 - ls
+
+![](chorogit.png)
 
 
